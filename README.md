@@ -22,10 +22,11 @@ It includes work on data wrangling, feature engineering, exploratory analysis, a
 
 
 ## Learning Objectives
-- Apply core data wrangling techniques using pandas  
-- Perform exploratory data analysis (EDA) using statistical and visual methods  
-- Engineer features for downstream modelling  
-- Use generative AI tools to support analysis and documentation  
+- Build practical skills in data wrangling and preparation using pandas
+- Apply exploratory data analysis to identify patterns and insights
+- Engineer features to support analytical and modelling tasks
+- Integrate generative AI tools into analysis and documentation workflows
+- Strengthen proficiency with Python, Jupyter/Colab, and reproducible data practices
 
 ## Tools & Technologies
 - Python (pandas)
