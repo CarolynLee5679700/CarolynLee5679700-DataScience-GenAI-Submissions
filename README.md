@@ -7,7 +7,6 @@ It includes work on data wrangling, feature engineering, exploratory analysis, a
 ### Assignment Notebooks
 - **Assignment 1:** Data & Feature Engineering  
   (./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
-
 - **Assignment 2:** Joining DataFrames  
   (./Assignment_1/2_02_Joining_DataFrames_COMPLETED.ipynb)
 
