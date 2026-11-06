@@ -20,6 +20,21 @@ It includes work on data wrangling, feature engineering, exploratory analysis, a
 - **Assignment 5:** Exploratory Data Analysis  
   [2_05_Exploratory_Data_Analysis_COMPLETED.ipynb](./Assignment_1/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
 
+  - **Assignment 6:** Statistical Exploratory Data Analysis  
+  [3_0X_Statistical_Exploratory_Data_Analysis_COMPLETED.ipynb](./Assignment_1/3_0X_Statistical_Exploratory_Data_Analysis_COMPLETED.ipynb)
+
+- **Assignment 7:** Decision Trees  
+  [4_01_Decision_Trees_COMPLETED.ipynb](./Assignment_1/4_01_Decision_Trees_COMPLETED.ipynb)
+
+- **Assignment 8:** Linear Regression (Statistics vs Machine Learning)  
+  [4_01_Linear_Regression_(statistics_vs_machine_learning)_COMPLETED.ipynb](./Assignment_1/4_01_Linear_Regression_(statistics_vs_machine_learning)_COMPLETED.ipynb)
+
+- **Assignment 9:** Logistic Regression  
+  [4_02_Logistics_Regression_COMPLETED.ipynb](./Assignment_1/4_02_Logistics_Regression_COMPLETED.ipynb)
+
+- **Assignment 10:** Random Forest and GBDT  
+  [5_01_Random_Forest_and_GBDT_COMPLETED.ipynb](./Assignment_1/5_01_Random_Forest_and_GBDT_COMPLETED.ipynb)
+
 
 ## Learning Objectives
 - Build practical skills in data wrangling and preparation using pandas
