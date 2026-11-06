@@ -20,7 +20,7 @@ It includes work on data wrangling, feature engineering, exploratory analysis, a
 - **Assignment 5:** Exploratory Data Analysis  
   [2_05_Exploratory_Data_Analysis_COMPLETED.ipynb](./Assignment_1/2_05_Exploratory_Data_Analysis_COMPLETED.ipynb)
 
-  - **Assignment 6:** Statistical Exploratory Data Analysis  
+- **Assignment 6:** Statistical Exploratory Data Analysis  
   [3_0X_Statistical_Exploratory_Data_Analysis_COMPLETED.ipynb](./Assignment_1/3_0X_Statistical_Exploratory_Data_Analysis_COMPLETED.ipynb)
 
 - **Assignment 7:** Decision Trees  
